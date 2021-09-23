@@ -1,0 +1,44 @@
+#col
+{
+    background-color: grey;
+    text-align: center;
+    border-radius: 20px;
+    width: 1000px;
+    height: 250px;
+    box-shadow: 5px 5px 5px black;
+}
+
+#f
+{
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+}
+
+#b
+{
+    color: purple; 
+}
+
+#d
+{
+    color: purple;
+}
+
+#t
+{
+    height: 150px;
+    width: 150px;
+}
+
+.copy_right_footer
+{
+  position: fixed;
+  font-family: 'Calligraffitti', cursive;
+  line-height: 3;
+  color: red;
+  background-color: yellow;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
